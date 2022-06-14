@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  },
+  "name": "start",
+  "version": "1.0.0",
+  "description": "learn",
+  "main": "srver.js",
+  "scripts": {
+    "start": "nodemon sum.js"
+  },
+  "keywords": [
+    "node",
+    "learning"
+  ],
+  "author": "shivam",
+  "license": "ISC"
+}
